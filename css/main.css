@@ -98,7 +98,7 @@ body {
  * ------------------------------------------------------------------- */
 
 a {
-    color: #862121;
+    color: #ffb74c;
     -webkit-transition: all 0.3s ease-in-out;
     transition: all 0.3s ease-in-out;
 }
@@ -378,7 +378,7 @@ ul.disc li::before {
     width: 8px;
     height: 8px;
     border-radius: 50%;
-    background: #862121;
+    background: #ffb74c;
     position: absolute;
     left: -17px;
     top: 11px;
@@ -387,7 +387,7 @@ ul.disc li::before {
 
 dt {
     margin: 0;
-    color: #862121;
+    color: #ffb74c;
 }
 
 dd {
@@ -518,7 +518,7 @@ form,
 }
 
 .pace .pace-progress {
-    background: #862121;
+    background: #ffb74c;
     position: fixed;
     z-index: 900;
     top: 0;
@@ -563,7 +563,7 @@ form,
     margin-left: -30px;
     margin-top: -30px;
     padding: 0;
-    background-color: #862121;
+    background-color: #ffb74c;
     border-radius: 100%;
     -webkit-animation: sk-scaleout 1.0s infinite ease-in-out;
     animation: sk-scaleout 1.0s infinite ease-in-out;
@@ -831,8 +831,8 @@ button.btn--primary:focus,
 input[type="submit"].btn--primary:focus, 
 input[type="reset"].btn--primary:focus, 
 input[type="button"].btn--primary:focus {
-    background: #862121;
-    border-color: #862121;
+    background: #ffb74c;
+    border-color: #ffb74c;
 }
 
 
@@ -861,8 +861,8 @@ input[type="button"].btn--primary:focus {
 }
 
 .btn--stroke:hover, button.btn--stroke:hover {
-    border: 0.3rem solid #862121;
-    color: #862121;
+    border: 0.3rem solid #ffb74c;
+    color: #ffb74c;
 }
 
 .btn--pill, button.btn--pill {
@@ -1088,7 +1088,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 }
 
 .stats-tabs li a:hover {
-    color: #862121;
+    color: #ffb74c;
 }
 
 .stats-tabs li a em {
@@ -1277,7 +1277,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .section-intro h3 {
     font-family: "montserrat-semibold", sans-serif;
     font-size: 2rem;
-    color: #862121;
+    color: #ffb74c;
     text-transform: uppercase;
     letter-spacing: .15rem;
     margin-top: 0;
@@ -1381,11 +1381,11 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .blog-list .blog-date {
     font-family: "montserrat-regular", sans-serif;
     font-size: 1.5rem;
-    color: #862121;
+    color: #ffb74c;
 }
 
 .blog-list .blog-date a {
-    color: #862121;
+    color: #ffb74c;
 }
 
 .blog-list .blog-date a:hover, 
@@ -1410,7 +1410,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .blog-list .blog-cat a:hover, 
 .blog-list .blog-cat a:focus, 
 .blog-list .blog-cat a:active {
-    color: #862121;
+    color: #ffb74c;
 }
 
 .blog-list .blog-cat a::after {
@@ -1485,7 +1485,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .s-header.sticky {
     position: fixed;
     top: 0;
-    background-color: #000000 !important;
+    background-color: white !important;
     opacity: 0;
     visibility: hidden;
     z-index: 600;
@@ -1663,7 +1663,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 
 .header-nav li.current a {
     font-family: "montserrat-extrabold", sans-serif;
-    color: #b1282f;
+    color: ffb74c;
 }
 
 
@@ -1683,7 +1683,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
         right: auto;
         top: 0;
         left: 0;
-        background-color: #000000;
+        background-color: #ffb6c1;
         padding: 120px 40px 21px;
     }
     .header-nav-wrap .header-nav {
@@ -1778,7 +1778,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
 .home-content h3 {
     font-family: "montserrat-bold", sans-serif;
     font-size: 1.8rem;
-    color: #862121;
+    color: #ffb74c;
     text-transform: uppercase;
     letter-spacing: .5rem;
     position: relative;
@@ -1792,7 +1792,7 @@ button::-moz-focus-inner, input::-moz-focus-inner {
     content: "";
     width: 60px;
     height: 2px;
-    background-color: #862121;
+    background-color: #ffb74c;
     margin-top: -1.5px;
     position: absolute;
     left: 0;
@@ -2988,7 +2988,7 @@ html.no-csstransitions .home-content__main {
 }
 
 .stats__col--highlight .stats__count::after {
-    background-color: #862121;
+    background-color: #ffb74c;
 }
 
 .stats__col--highlight h4 {
@@ -3100,7 +3100,7 @@ html.no-csstransitions .home-content__main {
     padding: 0 2rem;
     margin: 0;
     color: #FFFFFF;
-    background: #862121;
+    background: #ffb74c;
 }
 
 .s-contact .form-field label::after {
@@ -3111,7 +3111,7 @@ html.no-csstransitions .home-content__main {
     margin-top: -6px;
     border-top: 5px solid transparent;
     border-bottom: 5px solid transparent;
-    border-right: 5px solid #862121;
+    border-right: 5px solid #ffb74c;
 }
 
 .contact__main {
@@ -3155,8 +3155,8 @@ html.no-csstransitions .home-content__main {
 
 .contact__form button {
     margin-top: 4.2rem;
-    background-color: #862121;
-    border-color: #862121;
+    background-color: #ffb74c;
+    border-color: #ffb74c;
 }
 
 .message-warning, .message-success {
@@ -3316,7 +3316,7 @@ footer {
 }
 
 footer a, footer a:visited {
-    color: #862121;
+    color: #ffb74c;
 }
 
 footer a:hover, footer a:focus {
